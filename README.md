@@ -4,3 +4,4 @@ Lab3 https://github.com/Madhuvarma8008/AIML-2025/blob/main/Lab3.ipynb
 Lab4 https://github.com/Madhuvarma8008/AIML-2025/blob/main/Lab4.ipynb
 linear_regression_assignment_4 https://github.com/Madhuvarma8008/AIML-2025/commit/eaa9af845a69b80cd59ca5be8a75febe2aea408b
 lab-5 logistic regression https://github.com/Madhuvarma8008/AIML-2025/blob/main/logistic_regression.ipynb
+lab-6 KNN https://github.com/Madhuvarma8008/AIML-2025/blob/main/KNN_1.ipynb
