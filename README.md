@@ -7,3 +7,4 @@ lab-5 logistic regression https://github.com/Madhuvarma8008/AIML-2025/blob/main/
 lab-6 KNN https://github.com/Madhuvarma8008/AIML-2025/blob/main/KNN_1.ipynb
 lab-7 SVM https://github.com/Madhuvarma8008/AIML-2025/blob/main/SVM.ipynb
 lab-8 Decision_Tree https://github.com/Madhuvarma8008/AIML-2025/blob/main/Decision_Tree.ipynb
+Lab-9 classification https://github.com/Madhuvarma8008/AIML-2025/blob/main/Lab09_RF_Classification.ipynb
