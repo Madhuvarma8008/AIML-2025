@@ -9,3 +9,4 @@ lab-7 SVM https://github.com/Madhuvarma8008/AIML-2025/blob/main/SVM.ipynb
 lab-8 Decision_Tree https://github.com/Madhuvarma8008/AIML-2025/blob/main/Decision_Tree.ipynb
 Lab-9 classification https://github.com/Madhuvarma8008/AIML-2025/blob/main/Lab09_RF_Classification.ipynb
 Lab-10 Kmeans https://github.com/Madhuvarma8008/AIML-2025/blob/main/Kmeans.ipynb
+aiml exam https://github.com/Madhuvarma8008/AIML-2025/blob/main/2303A54045.ipynb
